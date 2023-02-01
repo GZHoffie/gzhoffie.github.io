@@ -1,0 +1,5 @@
+- name: Blog
+  link: /blog/
+- name: Gallery
+  link: /gallery/
+
