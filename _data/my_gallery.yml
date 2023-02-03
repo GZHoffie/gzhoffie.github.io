@@ -1,0 +1,70 @@
+- title: EUphoria
+  images:
+    - link: /images/gallery_europe/berlin_berliner_dom.jpg
+      alt: Berliner Dom
+      description: Berliner Dom, Berlin, Germany
+    - link: /images/gallery_europe/bavaria_neuschwanstein.jpg
+      alt: Neuschwanstein
+      description: Schloss Neuschwanstein, Bavaria, Germany
+    - link: /images/gallery_europe/bavaria_neuschwanstein_2.jpg
+      alt: Neuschwanstein
+      description: Schloss Neuschwanstein, Bavaria, Germany
+    - link: /images/gallery_europe/copenhagen_river.jpg
+      alt: Copenhagen
+      description: River in Copenhagen, Denmark
+    - link: /images/gallery_europe/zurich_uetliberg.jpg
+      alt: Uetliberg
+      description: Uetliberg, Zurich, Switzerland
+    - link: /images/gallery_europe/paris_arc_de_triomphe_in_snow.jpg
+      alt: Arc de triomphe
+      description: Arc de Triomphe, Paris, France
+    - link: /images/gallery_europe/provence_butterfly.jpg
+      alt: provence
+      description: Provence, France
+    - link: /images/gallery_europe/milan_cathedral.jpg
+      alt: milan
+      description: Duomo di Milano, Milan, Italy
+    - link: /images/gallery_europe/bavaria_neuschwanstein_3.jpg
+      alt: Neuschwanstein
+      description: Schloss Neuschwanstein, Bavaria, Germany
+    - link: /images/gallery_europe/berlin_checkpoint_charlie.jpg
+      alt: Checkpoint Charlie
+      description: Checkpoint Charlie, Berlin, Germany
+    
+- title: Asian Delights
+  images:
+    - link: /images/gallery_asia/kl_chin_swee_caves_temple.jpg
+      description: Chin Swee Caves Temple, Kuala Lumpur, Malaysia
+    - link: /images/gallery_asia/kl_chinatown.jpg
+      description: Chinatown, Kuala Lumpur, Malaysia
+    - link: /images/gallery_asia/kl_masjid_jamek_sultan_abdul_samad.jpg
+      description: Masjid Jamek Sultan Abdul Samad, Kuala Lumpur, Malaysia
+    - link: /images/gallery_asia/kl_jalan_alor.jpg
+      description: Jalan Alor, Kuala Lumpur, Malaysia
+    - link: /images/gallery_asia/kl_ktm_berhad.jpg
+      description: KTM Berhad Building, Kuala Lumpur, Malaysia
+    - link: /images/gallery_asia/sg_boat_quay.jpg
+      description: Boat Quay, Singapore
+    - link: /images/gallery_asia/sg_budda_tooth_relic_temple_and_museum.jpg
+      description: Budda Tooth Relic Temple, Singapore
+
+- title: Shanghai Jiao Tong University, my home for 4 years
+  images:
+    - link: /images/gallery_sjtu/sjtu_autumn.jpg
+      alt: autumn
+      description: Autumn in SJTU
+    - link: /images/gallery_sjtu/sjtu_hanze_lake.jpg
+      alt: Hanze Lake
+      description: Hanze Lake near my dorm
+    - link: /images/gallery_sjtu/sjtu_rain.jpg
+      alt: rain
+      description: SJTU in rain
+
+- title: National University of Singapore
+  images:
+    - link: /images/gallery_nus/nus_bus.jpg
+      description: A Cute A2 Shuttle Bus in NUS
+    - link: /images/gallery_nus/nus_techno_edge.jpg
+      description: Techno Edge
+    - link: /images/gallery_nus/nus_utown.jpg
+      description: UTown
