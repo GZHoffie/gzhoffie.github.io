@@ -1,5 +1,15 @@
+- name: Contact
+  link: /contact/
+- name: My Works
+  link: /work/
+  dropdown: 
+    - name: Research
+      link: /research/
+    - name: Teaching
+      link: /teaching/
 - name: Blog
   link: /blog/
 - name: Gallery
   link: /gallery/
-
+- name: My Favourites
+  link: /favourites/
