@@ -12,14 +12,14 @@ hero_image: /images/hero_images/index_image.jpg
     
     <div class="column is-4-desktop  is-8-tablet is-12-mobile">
         <style>
-        img {
+        .avatar {
             border-radius: 50%;
             object-fit: cover;
             width: 230px;
             height: 230px;
         }
         </style>
-        <img src="/images/avatar.jpg" width="100%" alt="Avatar"/>
+        <img class="avatar" src="/images/avatar.jpg" width="100%" alt="Avatar"/>
     </div>
 
     <div class="column is-6-desktop is-6-tablet is-12-mobile content">
